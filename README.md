@@ -9,7 +9,7 @@ Collects market data from these two crypto exchanges.
 
 ##How to use
 
-* `git clone https://git/`
+* `git clone https://github.com/faddai/btc-price-data-collector.git`
 * `cd btc-price-data-collector`
 * `npm install` to grab dependencies
 * `npm start` to start the application

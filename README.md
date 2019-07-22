@@ -1,4 +1,4 @@
-#Bitcoin Price Data Collector
+# Bitcoin Price Data Collector
 
 Collects market data from these two crypto exchanges.
 
@@ -7,7 +7,7 @@ Collects market data from these two crypto exchanges.
 
 *There is a simulated function that can be used to generate mock data too.*
 
-##How to use
+## How to use
 
 * `git clone https://github.com/faddai/btc-price-data-collector.git`
 * `cd btc-price-data-collector`
